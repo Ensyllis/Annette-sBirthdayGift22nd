@@ -22,7 +22,7 @@ const ThirdPage: React.FC = () => {
             <ParallaxBannerLayer image="/ThirdPage/background1.jpg" speed={-20} />
             <ParallaxBannerLayer className="flex items-center justify-center">
               <div className="text-center text-white text-4xl font-bold">
-                <p>Sorry I couldn't get you real flowers</p>
+                <p>Sorry I couldn&apos;t get you real flowers</p>
                 <ChevronDown className="mt-8 animate-bounce" size={48} />
               </div>
             </ParallaxBannerLayer>

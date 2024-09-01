@@ -68,7 +68,7 @@ const FourthPage: React.FC = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        Reasons why I'm grateful for you
+        Reasons why I&apos;m grateful for you
       </motion.h1>
       
       <div className="relative w-full max-w-2xl h-64 overflow-hidden">
